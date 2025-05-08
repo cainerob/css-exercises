@@ -1,0 +1,15 @@
+body {
+    color: #000;
+}
+.bg {
+    background-color: #ffc0cb;
+    font-family: "Arial", sans-serif;
+}
+#txt {
+    color: #00f;
+    font-size: 30px;
+}
+#bg2 {
+    background-color: #90ee90;
+    font-weight: bold;
+}
